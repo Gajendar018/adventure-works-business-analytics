@@ -56,7 +56,14 @@ The model helps forecast future sales trends for strategic planning.
 ---
 
 ## 📊 Dashboard Preview
-folder (PowerBi)
+ Dashboard Highlights
+
+• Executive KPI overview of revenue and profit
+• Regional performance analysis
+• Product and customer insights
+• Interactive filtering for dynamic analysis
+
+📂 power bi
 
 
 ---
